@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="[[naman/developer.gif](https://github.com/soaler29naman/Profile/blob/main/developer.gif)](https://github.com/soaler29naman/Profile/blob/main/developer.gif?raw=true)" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/soaler29naman/soaler29naman/blob/main/developer.gif?raw=true" alt="Coder GIF" width="420" height="330">
 
 <h1 align="center">
 Hi, I'm Naman Maurya!
